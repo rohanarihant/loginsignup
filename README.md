@@ -1,1 +1,5 @@
-# loginsignuptyy
+# npm install 
+
+
+npm start
+
